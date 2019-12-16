@@ -5,5 +5,5 @@ Gruppeneinteilung:
 
   Ο Generator: Yanik Bordenschlager, Johannes Hacker <br/>
   Ο NodeJS: Lucas Feichtinger, Paul Kampmüller  <br/>
-  Ο Client : Lejs Becirovic, Ajdin Hodzic <br/>
+  Ο Client : Lejs Becirovic, #Ajdin Hodzic <br/>
   Ο Java: Mario Krammer, Lukas Haslinger <br/>
